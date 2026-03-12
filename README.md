@@ -4,7 +4,7 @@ Aquest programa serveix per consultar el [corpus de la llengua de signes catalan
 ## Executar el programa
 
 ### Descarregar els fitxers
-Per executar el navegador cal tenir Windows com a sistema operatiu. A més, caldrà que us descarregueu els fitxers d'aquest repositori i els poseu en una mateixa carpeta. Abans de continuar, comproveu que hi teniu com a mínim aquests arxius:
+Per executar el navegador cal tenir Windows com a sistema operatiu. A més, caldrà que us descarregueu els fitxers d'aquest repositori i els poseu en una mateixa carpeta. Estan en un arxiu comprimit, o sigui que caldrà que el descomprimiu (si teniu dubtes, mireu la secció següent). Abans de continuar, comproveu que hi teniu com a mínim aquests arxius:
 - ELAN *[subcarpeta]*
 - Subtitles *[subcarpeta]*
 - ELAN_temporary *[subcarpeta]*
