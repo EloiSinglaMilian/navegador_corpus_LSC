@@ -38,7 +38,7 @@ Un cop els tingueu, poseu-los a la subcarpeta "ELAN" dins de la carpeta amb els 
 ### Obrir el programa
 Un cop tingueu hagueu descarregat tots els materials i els tingueu a lloc, només cal que feu doble clic a "navegador_corpus_LSC.exe". El programa s'obrirà en la seva pròpia finestra.
 
-
+---
 
 ## Un cop dins del programa
 El navegador té tres pestanyes, que podeu seleccionar a la part de dalt a l'esquerra de la finestra. La primera serveix per veure els enregistraments del corpus; la segona, per cercar text a les glosses i la tercera serveix per activar el mode fosc i veure arxius EAF desemparellats. A continuació podeu trobar instruccions per a cadascuna de les pestanyes.
@@ -80,6 +80,7 @@ A la dreta de cada resultat hi ha botó "Veure". Si el premeu, el programa us po
 ### Configuració
 En la tercera pestanya podeu activar el mode fosc, que pot ser que no vagi del tot bé. També podeu veure quins arxius EAF ha detectat el programa que no es corresponen amb cap vídeo. El programa ja fa molta feina invisible de normalització noms de vídeo i de fitxers, però en algus casos no és suficient. Si veieu que hi ha força arxius que no es detecten correctament, o justament un arxiu que voleu consultar sí o sí no es detecta, aviseu-me.
 
+---
 
 ## Contacte
 Si teniu cap dubte o suggeriment de millora, si us plau no dubteu a contactar-me. També em podeu demanar els arxius de codi del programa si els voleu veure. La meva adreça de correu electrònic és aquesta: eloi [punt] singla [arroba] upf [punt] edu
