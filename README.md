@@ -1,7 +1,21 @@
 # Navegador per al corpus de la LSC
 Aquest programa serveix per consultar el [corpus de la llengua de signes catalana (LSC)](https://corpuslsc.iec.cat/) de l'Institut d'Estudis Catalans (IEC) d'una manera centralitzada i eficaç. Actualment serveix tant per veure'n els enregistraments com per buscar a les anotacions dels fitxers EAF.
 
-## Executar el programa
+## Índex
+* [Engegar el programa](#engegar-el-programa)
+    * [Descarregar els fitxers](#descarregar-els-fitxers)
+    * [Fitxer "mpd-1.dll"](#fitxer-mpd-1dll)
+    * [Fitxers EAF](#fitxers-eaf)
+    * [Obrir el programa](#obrir-el-programa)
+* [Un cop dins del programa](#un-cop-dins-del-programa)
+    * [Explorador de vídeos](#explorador-de-vídeos)
+    * [Cercador de contingut](#cercador-de-contingut)
+    * [Configuració](#configuració)
+* [Contacte](#contacte)
+
+---
+
+## Engegar el programa
 
 ### Descarregar els fitxers
 Per executar el navegador cal tenir Windows com a sistema operatiu. A més, caldrà que us descarregueu el fitxer "V1.0_navegador_corpus_LSC.zip". És un arxiu comprimit, o sigui que caldrà que el descomprimiu (si teniu dubtes sobr això, mireu la secció següent). Abans de continuar, comproveu que hi teniu com a mínim aquests arxius:
@@ -21,7 +35,7 @@ Si voleu fer servir les anotacions EAF (els fitxers que llegeix el [programa ELA
 
 Un cop els tingueu, poseu-los a la subcarpeta "ELAN" dins de la carpeta amb els arxius que heu descarregat d'aquest repositori (on teniu l'EXE i els dos fitxers CSV). **No poseu res a la carpeta "ELAN_temporary":** podríeu perdre el que hi poseu. A més, per segurat, us recomano guardar una còpia dels arxius EAF "lluny" dels fitxers del programa.
 
-### Executar el programa
+### Obrir el programa
 Un cop tingueu hagueu descarregat tots els materials i els tingueu a lloc, només cal que feu doble clic a "navegador_corpus_LSC.exe". El programa s'obrirà en la seva pròpia finestra.
 
 
