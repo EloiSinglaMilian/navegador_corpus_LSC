@@ -30,6 +30,9 @@ Un cop tingueu hagueu descarregat tots els materials i els tingueu a lloc, nomé
 El navegador té tres pestanyes, que podeu seleccionar a la part de dalt a l'esquerra de la finestra. La primera serveix per veure els enregistraments del corpus; la segona, per cercar text a les glosses i la tercera serveix per activar el mode fosc i veure arxius EAF desemparellats. A continuació podeu trobar instruccions per a cadascuna de les pestanyes.
 
 ### Explorador de vídeos
+
+![Captura de pantalla del navegador de vídeos](imatges/visualitzador.png)
+
 L'explorador es divideix en tres columnes. A l'esquerra hi ha una llista amb tots els vídeos del corpus. Mostra el nom, la durada i si s'ha detectat l'arxiu EAF corresponent a la carpeta "ELAN". La columneta "Cerca-hi" s'explica a l'apartat del cercador. Si seleccioneu un vídeo fent-hi clic veureu que el requadre de sota titolat "Metadades" s'omple amb la informació del vídeo. També veureu que es carrega una previsualització al reproductor de la dreta. A sobre la llista hi ha també una caixa de text per buscar vídeos pel nom.
 
 La segona columna permet filtrar els vídeos segons diversos paràmetres. Són acumulatius, de manera que si podem seleccionar les activitats 1 i 2 i es mostraran els vídeos de les dues. Els filtres que apliqueu modificaran quins vídeos veieu a la llista de l'esquerra. El comptador "Vídeos: X/328" us dirà quants vídeos compleixen els requisits dels filtres. Si voleu eliminar els filtres, per no haver-los de tornar a clicar un per un, podeu fer servir el botó "Netejar filtres", que els desmarcarà tots.
@@ -39,6 +42,11 @@ A la dreta de tot hi ha el reproductor de vídeos. A la part de dalt hi ha la "p
 Si teniu l'arxiu EAF que correspon al vídeo seleccionat, podreu veure les anotacions/glosses en forma de subtítols durant la visualització. Podeu desactivar-los o ajustar-los amb les opcions de sota del reproductor. Per modificar-ne la posició podeu fer servir els dos primers lliscadors i la mida de la lletra la podeu canviar amb el tercer. A banda, si trobéssiu que el vídeo i els subtítols no estan sincronitzats, podeu avançar o endarrerir els subtítols l'opció corresponent.
 
 ### Cercador de contingut
+
+![Captura de pantalla del cercador abans d'una cerca](imatges/pre-cerca.png)
+
+![Captura de pantalla del cercador després d'una cerca](imatges/post-cerca.png)
+
 Si anem a la segona pestanya tot just obrir el programa, veurem que hi apareix el text "Selecciona vídeos a l'explorador per començar". Per fer servir les funcionalitats del cercador, cal indicar en quins vídeos volem buscar. Com que es fan servir els arxius EAF i no els enregistraments, cal que tingueu les anotacions dels vídeos que us interessin a la carpeta ELAN.
 
 Per seleccionar-los, doncs, cal tornar a la primera pestanya i a la llista de vídeos fer servir la columna "Cerca-hi" per marcar les caixetes. Per no haver de fer-ho manualment podeu fer servir el botó "Seleccionar-los tots" que hi ha just a sobre. Tant aquest botó com el que deseleccionar actuen sobre els vídeos que mostra la llista en aquell moment, de manera que podeu combinar-los amb els filtres.
