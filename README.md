@@ -1,4 +1,4 @@
-# Navegador per al corpus de la LSC
+# NavCorpus-LSC
 Aquest programa serveix per consultar el [corpus de la llengua de signes catalana (LSC)](https://corpuslsc.iec.cat/) de l'Institut d'Estudis Catalans (IEC) d'una manera centralitzada i eficaç. Actualment serveix tant per veure'n els enregistraments com per buscar a les anotacions dels fitxers EAF.
 
 ## Índex
