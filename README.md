@@ -83,7 +83,7 @@ En la tercera pestanya podeu activar el mode fosc, que pot ser que no vagi del t
 ---
 
 ## Contacte
-Si teniu cap dubte o suggeriment de millora, si us plau no dubteu a contactar-me. També em podeu demanar els arxius de codi del programa si els voleu veure. La meva adreça de correu electrònic és aquesta: eloi [punt] singla [arroba] upf [punt] edu
+Si teniu cap dubte, problema o suggeriment de millora, si us plau no dubteu a contactar-me. La meva adreça de correu electrònic és aquesta: eloi [punt] singla [arroba] upf [punt] edu
 
 Les millores que m'agradaria fer en algun moment de cara a una versió 2.0 són aquests:
 - Poder guardar i carregar combinacions de filtres
